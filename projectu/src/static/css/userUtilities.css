@@ -1,0 +1,59 @@
+.userUtil-info {
+    width: 100%;
+    color: #282828;
+}
+
+.simple-post-banner {
+    width: 90%;
+    padding: 10px;
+    margin: auto;
+}
+
+.userUtil-notif {
+    width: 90%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 100%;
+    row-gap: 30px;
+}
+
+.notif-container {
+    text-align: left;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 100%;
+}
+.notif-sender{
+    text-align: left;
+
+}
+.notif-message {
+    padding-left: 20px;
+}
+.notif-accepted {
+    border-radius: 20px;
+    border: 3px green solid;
+}
+.notif-declined {
+    border-radius: 20px;
+    border: 3px red solid;
+}
+.decide {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.option {
+    border-radius: 3px;
+    color: white
+}
+.email {
+    width: 100%;
+    color: green;
+}
+.skilll {
+    padding: 3px;
+    background-color: #282828;
+    color: white;
+    
+}

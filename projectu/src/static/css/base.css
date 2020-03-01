@@ -1,0 +1,50 @@
+html, body, input, button {
+    font-family: 'Open Sans', sans-serif;
+    color: #282828;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+}
+
+h1,h2,h3,h4,h5 {
+    margin: 10px;
+    text-align: center;
+}
+
+.wrapper {
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.banner {
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    padding-top: 10px;
+    height: 80px;
+    z-index: 1;
+}
+
+.posts-container {
+    width: 70%;
+    border-left: 5px #484848 solid;
+    border-right: 5px #484848 solid;
+}
+
+.custom-hr {
+    /* position: relative; */
+    width: 90%;
+    margin: auto;
+    margin-top: 0;
+    margin-bottom: 5px;
+    height: 3px;
+    border-radius: 3px;
+}
+
+.important {
+    font-weight: bold;
+}

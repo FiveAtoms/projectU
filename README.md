@@ -19,13 +19,13 @@ If a user is interested in working on a project they can request to work with th
 <h2>Do next</h2>
 
 <ul>
-  <li>Make it so that when opening the site all the posts are not loaded. Instead a minimal amount to decrease loadtime.</li>
-  <li>Add a simple home page with just a description and the search bar <br /> sketch: <img src="https://i.imgur.com/HOXLlOB.png" alt="Aimeos logo" title="Aimeos" align="center" height="100" /></li>
-  <li>Add an add post forum. (dont know where im open to suggestions)</li>
-  <li>Create a dynamic post page</li>
-  <li>Create a dynamic user page</li>
+  <li>Make it so that when opening the site all the posts are not loaded. Instead a minimal amount to decrease load time.</li>
+  <li>Add a simple home page with just a description and the search bar. <br /> sketch: <img src="https://i.imgur.com/HOXLlOB.png" alt="Aimeos logo" title="Aimeos" align="center" height="100" /></li>
+  <li>Add an add post form ui. (dont know where im open to suggestions)</li>
+  <li>Create a dynamic post page.</li>
+  <li>Create a dynamic user page.</li>
 </ul>
 <h2>Notes</h2>
 <ul>
-  <li>The child code within the UserItem components was scrapped together last minute. I have not deleted it just so that it can serve as an example of what its supposed to be, but feel free to delete and start fresh</li>
+  <li>The child code within the UserItem components was scrapped together last minute. I have not deleted it just so that it can serve as an example of what its supposed to be, but feel free to delete and start fresh.</li>
 </ul>

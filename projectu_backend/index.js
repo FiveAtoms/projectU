@@ -9,8 +9,12 @@ const { UserInputError, AuthenticationError, ApolloServer, gql } = require('apol
 const jwt = require('jsonwebtoken')
 const bcrypt = require('bcrypt')
 
-const JWT_SECRET = process.env.JWT_SECRET
-const MONGODB_URI = process.env.MONGODB_URI
+
+
+// DATABASE -- FIX
+const JWT_SECRET = "berySecret"
+const MONGODB_URI = "mongodb+srv://FiveAtoms: admin123@cluster0-dlwek.mongodb.net/test?retryWrites=true&w=majority"
+
 
 mongoose.connect(MONGODB_URI, {useNewUrlParser: true})
     .then(console.log('Connected to MongoDB'))

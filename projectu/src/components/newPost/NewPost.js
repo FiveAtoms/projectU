@@ -3,6 +3,7 @@ import { connect } from 'react-redux'
 import '../../static/css/newPost.css'
 import { Link } from 'react-router-dom'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
+
 import userIconB from '../../static/svg/userB.svg'
 import clockIconB from '../../static/svg/clockB.svg'
 import coopIconB from '../../static/svg/coopB.svg'
